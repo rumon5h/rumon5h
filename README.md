@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumon5&show_icons=true&locale=en&layout=compact" alt="rumon5" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumon5)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&locale=en" alt="rumon5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumon5&" alt="rumon5" /></p>
