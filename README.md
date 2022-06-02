@@ -11,3 +11,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rumon5&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+https://api.daily.dev/devcards/d99f5589211d43a3b0440583578ba879.png?r=2nq
