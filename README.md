@@ -9,4 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumon5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&theme=radical) https://api.daily.dev/devcards/d99f5589211d43a3b0440583578ba879.png?r=bkf
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&theme=radical) 
+
+https://api.daily.dev/devcards/d99f5589211d43a3b0440583578ba879.png?r=u71
