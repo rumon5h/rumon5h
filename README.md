@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rumon-khan.web.app/](https://rumon-khan.web.app/)
 
-- 📝 I regularly write articles on [https://rumon-khan.web.app/blogs](https://rumon-khan.web.app/blogs)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mdrumonkhan45@gmail.com**
@@ -34,6 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumon5&show_icons=true&locale=en&layout=compact" alt="rumon5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&locale=en" alt="rumon5" /></p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumon5&show_icons=true&theme=radical) 
 
