@@ -32,6 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumon5h&show_icons=true&locale=en&layout=compact" alt="rumon5h" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=
-  &show_icons=true&locale=en" alt="rumon5h" /></p>
-
