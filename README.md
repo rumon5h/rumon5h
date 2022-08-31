@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumon5h" alt="rumon5h" /></a> </p>
 
-- 🔭 I’m currently working on [Learn With Rumon](https://learnwithrumon.web.app/)
+- 🔭 I’m currently working on [Back end development]()
 
 - 🌱 I’m currently learning **C**
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rumon5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumon5h" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18091332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18091332" height="30" width="40" /></a>
-<a href="https://fb.com/rumon4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rumon4h" height="30" width="40" /></a>
+<a href="https://fb.com/rumon5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rumon5h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
