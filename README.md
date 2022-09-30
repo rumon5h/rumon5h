@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [https://rumon-khan.web.app/](https://rumon-khan.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rumon-khan.web.app/)
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mdrumonkhan45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PYOI9lDcAJjYvHVrnz7MGdEOtxB0jesO/view?usp=sharing](https://drive.google.com/file/d/1jnBymCjKKuh2ZWqSBbk0OXDxC3OpJSQ-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PYOI9lDcAJjYvHVrnz7MGdEOtxB0jesO/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
