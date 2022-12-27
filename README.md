@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumon5h" alt="rumon5h" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Advance Python**
 
 - 💬 Ask me about **JavaScript**
 
