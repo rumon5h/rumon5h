@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A Software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 1 year of hands-on experience in **MERN-stack**
-- Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Have 1 year of hands-on experience in **MERN-stack**.
+<!-- - Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
+- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures. -->
 
 #### What I'm doing?
 <!-- - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**. -->
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects. -->
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `JavaScript` `MERN-stack `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `JavaScript` `MERN-stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
