@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- A Software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 1 year of hands-on experience in **MERN-stack**
 - Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 #### What I'm doing?
 <!-- - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**. -->
 - 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript`.
-<!-- - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+<!-- - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [LinkedIn](https://www.linkedin.com/in/asadullah-rifat) and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
 - 👯 Looking to collaborate on **.NET projects**.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects. -->
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
   <!-- - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx) -->
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
-  - **🔭 Frameworks:** • [Node.js, Express.js](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
-  - **💾 Databases:** • [MongoDB, Mongoose](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html)
+  - **🔭 Frameworks:** • [Node.js]() [Express.js]()
+  - **💾 Databases:** • [Mongoose](https://mongoosejs.com/) • [MongoDB](https://www.mongodb.com/)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/)
   
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:**  • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) 
+  - **⚒ Patterns:**  • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumon5h"/>
 </p>
 
-#### What companies have I worked for?
+<!-- #### What companies have I worked for?
 <p left="center">
   <a href="#">
     <img src="#" height=50>
     </a>
-</p>
+</p> -->
 
-#### What are my recent highlights?
-- [featured-a-mern-stack-website](https://rumon-khan.web.app)
+<!-- #### What are my recent highlights?
+- [featured-a-mern-stack-website](https://rumon-khan.web.app) -->
 
 <!--
 #### How to get in touch with me?
