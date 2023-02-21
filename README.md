@@ -1,18 +1,86 @@
-<h1 align="center">Hi 👋, I'm Md. Rumon Khan</h1>
-<h3 align="center"> A passionate MERN stack developer from Bangladesh </h3>
+### Hi there 👋!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumon5h&label=Profile%20views&color=0e75b6&style=flat" alt="rumon5h" /> </p>
+<!--
+**rumon5h/rumon5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 I’m currently learning **Advance Python**
+Here are some ideas to get you started:
+-->
+#### Who I am?
+- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 1 year of hands-on experience in **MERN-stack**
+- Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
+- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-- 💬 Ask me about **JavaScript**
+#### What I'm doing?
+<!-- - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**. -->
+- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript`.
+<!-- - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
+- 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
+- 👯 Looking to collaborate on **.NET projects**.
+- 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects. -->
 
-- 📫 How to reach me **mdrumonkhan45@gmail.com**
+#### What I like to disscuss about? 
+- 💬 Ask me about `JavaScript` `MERN-stack `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### What my skill set looks like?
+- 🖥 **Front-end:** 
+  - **📜 Languages:** • `🧙🏻 React.js` • `👨‍🏭 Next.js` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`  • `🧚🏻‍♂️ Tailwind` •  `🧚🏻‍♂️ Material ui` 
+  <!-- - **🔬 Frameworks:**   -->
+    <!-- - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0)  -->
+    <!-- - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) -->
+    <!-- - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/) -->
+  <!-- - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/) -->
+  <!-- - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx) -->
+- 🗄️ **Back-end:**
+  - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
+  - **🔭 Frameworks:** • [Node.js, Express.js](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+  - **💾 Databases:** • [MongoDB, Mongoose](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://git-scm.com/)
+  
+- 🧙‍♂️ **Coding pattern & principles:**
+  - **⚒ Patterns:**  • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) 
+  
+- **🏗️ Code editors:**
+<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+  
+#### What's interesting about me?  
+  - 🧐 I love to be very **precise** and **thorough**.
+  - ✍️ I write about **why a certain code is written instead of what** in the comments.
+  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **JavaScript** ecosystem.
 
+<!--Github Stats-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumon5h" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumon5h"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumon5h&show_icons=true&locale=en" alt="rumon5h" /></p>
+#### What companies have I worked for?
+<p left="center">
+  <a href="#">
+    <img src="#" height=50>
+    </a>
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rumon5h&show_icons=true&locale=en" alt="rumon5h" /></p>
+#### What are my recent highlights?
+- [featured-a-mern-stack-website](https://rumon-khan.web.app)
+
+<!--
+#### How to get in touch with me?
+<p left="center">
+<a href="https://twitter.com/rumon5h">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/rumon5h">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/rumon5h/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:mdrumonkhan45@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+-->
