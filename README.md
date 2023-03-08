@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures. -->
 
 #### What I'm doing?
-<!-- - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**. -->
+<!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
 - 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript`.
-<!-- - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [LinkedIn](https://www.linkedin.com/in/asadullah-rifat) and the **.NET community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/rumon5h"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [LinkedIn](https://www.linkedin.com/in/rumon5h) and the **JavaScript community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
-- 👯 Looking to collaborate on **.NET projects**.
-- 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects. -->
+- 👯 Looking to collaborate on **JavaScript projects**.
+<!-- - 🥰 Building **[Astro-Odyssey](https://github.com/rumon5h/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/rumon5h/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/rumon5h/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/rumon5h/sky-way-uno-platform)**, **[Memory-Match](https://github.com/rumon5h/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/rumon5h/honk-hero-uno-platform)** & **[Phototis](https://github.com/rumon5h/Phototis-Uno-Platform)** as pet projects. -->
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `JavaScript` `MERN-stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `JavaScript` `MERN-Stack` `web APIs`  `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <!-- #### What are my recent highlights?
 - [featured-a-mern-stack-website](https://rumon-khan.web.app) -->
 
-<!--
+
 #### How to get in touch with me?
 <p left="center">
 <a href="https://twitter.com/rumon5h">
@@ -83,4 +83,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
--->
