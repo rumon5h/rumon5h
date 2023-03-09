@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 <!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
-- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript`.
+- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/rumon5h"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [LinkedIn](https://www.linkedin.com/in/rumon5h) and the **JavaScript community**.
-- 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
+- 📚 Currently learning about **Advance Python**, and **Redux.js**.
 - 👯 Looking to collaborate on **JavaScript projects**.
 <!-- - 🥰 Building **[Astro-Odyssey](https://github.com/rumon5h/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/rumon5h/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/rumon5h/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/rumon5h/sky-way-uno-platform)**, **[Memory-Match](https://github.com/rumon5h/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/rumon5h/honk-hero-uno-platform)** & **[Phototis](https://github.com/rumon5h/Phototis-Uno-Platform)** as pet projects. -->
 
@@ -71,7 +71,8 @@ Here are some ideas to get you started:
 #### How to get in touch with me?
 <p left="center">
 <a target="_blank"  href="https://twitter.com/rumon5h">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-th
+  e-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a target="_blank"  href="https://www.linkedin.com/in/rumon5h">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
