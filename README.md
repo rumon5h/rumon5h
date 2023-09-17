@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
 - 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript`.
 - 🌍 Mostly active on **[Stack Overflow](https://stackoverflow.com/users/18091332/md-rumon-khan)**
-- 📚 Currently learning about **Advance Python**, and **Redux.js**.
+- 📚 Currently learning about **Advance Kotlin**, and **Redux.js**.
 - 👯 Looking to collaborate on **JavaScript projects**.
 <!-- - 🥰 Building **[Astro-Odyssey](https://github.com/rumon5h/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/rumon5h/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/rumon5h/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/rumon5h/sky-way-uno-platform)**, **[Memory-Match](https://github.com/rumon5h/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/rumon5h/honk-hero-uno-platform)** & **[Phototis](https://github.com/rumon5h/Phototis-Uno-Platform)** as pet projects. -->
 
