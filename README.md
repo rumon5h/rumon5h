@@ -54,12 +54,11 @@ Here are some ideas to get you started:
 <!--Github Stats-->
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumon5h" /> 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumon5h"/>
 </p>
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumon5h" alt="Gift's LangStat" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumon5h&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 <!-- #### What companies have I worked for?
