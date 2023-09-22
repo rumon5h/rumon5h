@@ -13,24 +13,24 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 <!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
-- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript`.
+- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript` `Java` `Kotlin` `React Native` .
 - 🌍 Mostly active on **[Stack Overflow](https://stackoverflow.com/users/18091332/md-rumon-khan)**
-- 📚 Currently learning about **Advance Kotlin**, and **Redux.js**.
+- 📚 Currently learning about **Kotlin**, and **Redux.js**.
 - 👯 Looking to collaborate on **JavaScript projects**.
 <!-- - 🥰 Building **[Astro-Odyssey](https://github.com/rumon5h/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/rumon5h/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/rumon5h/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/rumon5h/sky-way-uno-platform)**, **[Memory-Match](https://github.com/rumon5h/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/rumon5h/honk-hero-uno-platform)** & **[Phototis](https://github.com/rumon5h/Phototis-Uno-Platform)** as pet projects. -->
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `JavaScript` `MERN Stack` `web APIs`  `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `JavaScript` `React js` `Next js` `React Native` `MERN Stack` `Java` `web APIs`  `design patterns` `data structures` `coding speed hacks` `clean code` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages And Library:** • `🧙🏻 React.js` • `👨‍🏭 Next.js` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`  • `🧚🏻‍♂️ Tailwind` •  `🧚🏻‍♂️ Material ui` 
+  - **📜 Languages And Library:** • `🧙🏻 React.js` • `👨‍🏭 Next.js` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`  • `🧚🏻‍♂️ Tailwind` •  `🧚🏻‍♂️ Material ui` • `XML` • `React Native`
   <!-- - **🔬 Frameworks:**   -->
-    <!-- - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0)  -->
+    <!-- - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=)  -->
     <!-- - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) -->
-    <!-- - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/) -->
+    <!-- - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/) -->
   <!-- - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/) -->
-  <!-- - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx) -->
+  <!-- - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/) • [Telerik Reporting](https://www.telerik.com/products/) -->
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
   - **🔭 Frameworks:** • [Node.js]() [Express.js]()
