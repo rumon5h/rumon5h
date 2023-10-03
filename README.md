@@ -36,6 +36,12 @@ Here are some ideas to get you started:
   - **🔭 Frameworks:** • [Node.js]() [Express.js]()
   - **💾 Databases:** • [Mongoose](https://mongoosejs.com/) • [MongoDB](https://www.mongodb.com/)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+- 🗄️ **Mobile Application:**
+  - **📜 Languages:** • `🧙🏻‍♂️ JavaScript` • `Java` • `XML`
+  - **🔭 Frameworks:** • [React Native]() [Expo]()
+  - **💾 Databases:** • [MYSQL](https://mysql.com/) • [MongoDB](https://www.mongodb.com/)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/)
   
@@ -43,7 +49,7 @@ Here are some ideas to get you started:
   - **⚒ Patterns:**  • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   
 - **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> <a href="https://developer.android.com/studio"><img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" height=25></a> 
   
 #### What's interesting about me?  
   - 🧐 I love to be very **precise** and **thorough**.
