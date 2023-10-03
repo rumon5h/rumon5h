@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
 - 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript` `Java` `Kotlin` `React Native` .
 - 🌍 Mostly active on **[Stack Overflow](https://stackoverflow.com/users/18091332/md-rumon-khan)**
-- 📚 Currently learning about **Kotlin**, and **Redux.js**.
+- 📚 Currently learning about **Kotlin**.
 - 👯 Looking to collaborate on **JavaScript projects**.
 <!-- - 🥰 Building **[Astro-Odyssey](https://github.com/rumon5h/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/rumon5h/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/rumon5h/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/rumon5h/sky-way-uno-platform)**, **[Memory-Match](https://github.com/rumon5h/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/rumon5h/honk-hero-uno-platform)** & **[Phototis](https://github.com/rumon5h/Phototis-Uno-Platform)** as pet projects. -->
 
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
   <!-- - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/) • [Telerik Reporting](https://www.telerik.com/products/) -->
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
-  - **🔭 Frameworks:** • [Node.js]() [Express.js]()
+  - **🔭 Frameworks:** • [Node.js]() • [Express.js]()
   - **💾 Databases:** • [Mongoose](https://mongoosejs.com/) • [MongoDB](https://www.mongodb.com/)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 - 🗄️ **Mobile Application:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript` • `Java` • `XML`
-  - **🔭 Frameworks:** • [React Native]() [Expo]()
+  - **🔭 Frameworks:** • [React Native]() • [Expo]()
   - **💾 Databases:** • [MYSQL](https://mysql.com/) • [MongoDB](https://www.mongodb.com/)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - 🎡 **Software development ecosystem:**
