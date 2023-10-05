@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 - 🗄️ **Mobile Application:**
-  - **📜 Languages:** • `🧙🏻‍♂️ JavaScript` • `Java` • `XML` • `SQL`
+  - **📜 Languages:** • `🧙🏻‍♂️ JavaScript` • `Java` • `XML` • `SQL` • `PHP`
   - **🔭 Frameworks:** • [React Native]() • [Expo]()
   - **💾 Databases:** • [MYSQL](https://mysql.com/) • [MongoDB](https://www.mongodb.com/)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
