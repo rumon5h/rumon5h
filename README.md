@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 <!-- - 🏢 Working at **[SELISE](https://)** as a **Senior **. -->
-- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript` `Java` `Kotlin` `React Native` .
+- 👨‍💻 Writing `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Material ui` `JavaScript` `TypeScript` `Java` `PHP` `React Native` .
 - 🌍 Mostly active on **[Stack Overflow](https://stackoverflow.com/users/18091332/md-rumon-khan)**
 - 📚 Currently learning about **Kotlin**.
 - 👯 Looking to collaborate on **JavaScript projects**.
